@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Roberts",
+        "subject": "Introduction to Psychology",
+        "stars": 4,
+        "review": "Engaging lectures but a bit too fast-paced. Would recommend attending office hours."
+      },
+      {
+        "professor": "Prof. Michael Tanaka",
+        "subject": "Advanced Calculus",
+        "stars": 5,
+        "review": "Challenging course, but Prof. Tanaka explains everything clearly. Great professor!"
+      },
+      {
+        "professor": "Dr. Sarah Lemaire",
+        "subject": "Modern European History",
+        "stars": 3,
+        "review": "Very knowledgeable, but the lectures can be dry. Lots of reading required."
+      },
+      {
+        "professor": "Prof. Carlos Martinez",
+        "subject": "Organic Chemistry",
+        "stars": 2,
+        "review": "Difficult material and not much support. Exams are tough and grading is harsh."
+      },
+      {
+        "professor": "Dr. Rebecca Singh",
+        "subject": "Cognitive Science",
+        "stars": 5,
+        "review": "Fascinating lectures with lots of real-world applications. Highly recommended!"
+      },
+      {
+        "professor": "Prof. John Smith",
+        "subject": "Introduction to Sociology",
+        "stars": 4,
+        "review": "Interesting course with a lot of group discussions. Prof. Smith is very approachable."
+      },
+      {
+        "professor": "Dr. Laura Nguyen",
+        "subject": "Biochemistry",
+        "stars": 3,
+        "review": "Content is dense and difficult, but Dr. Nguyen is very patient and helpful."
+      },
+      {
+        "professor": "Prof. David Chen",
+        "subject": "Introduction to Philosophy",
+        "stars": 4,
+        "review": "Engaging lectures and thought-provoking topics. Prof. Chen is great at facilitating discussion."
+      },
+      {
+        "professor": "Dr. Amy Jackson",
+        "subject": "World Literature",
+        "stars": 5,
+        "review": "A passionate professor who makes literature come alive. Loved this class!"
+      },
+      {
+        "professor": "Prof. Mark Patel",
+        "subject": "Microeconomics",
+        "stars": 2,
+        "review": "The lectures are quite boring and the exams are difficult. Not my favorite course."
+      },
+      {
+        "professor": "Dr. James Williams",
+        "subject": "Physics II",
+        "stars": 3,
+        "review": "Content is challenging but Dr. Williams is always willing to help during office hours."
+      },
+      {
+        "professor": "Prof. Elena Garcia",
+        "subject": "Spanish Language and Culture",
+        "stars": 4,
+        "review": "Very interactive and fun course. Prof. Garcia is enthusiastic and supportive."
+      },
+      {
+        "professor": "Dr. Henry Lee",
+        "subject": "Statistics for Social Sciences",
+        "stars": 5,
+        "review": "Excellent professor! Dr. Lee makes statistics interesting and relevant."
+      },
+      {
+        "professor": "Prof. Olivia Davis",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Interesting course with lots of hands-on projects. Prof. Davis is very knowledgeable."
+      },
+      {
+        "professor": "Dr. Alexander Ivanov",
+        "subject": "Artificial Intelligence",
+        "stars": 5,
+        "review": "One of the best courses I've taken! Dr. Ivanov is a leading expert in the field."
+      },
+      {
+        "professor": "Prof. Maria Hernandez",
+        "subject": "Creative Writing",
+        "stars": 4,
+        "review": "Great course for aspiring writers. Prof. Hernandez provides lots of constructive feedback."
+      },
+      {
+        "professor": "Dr. Robert Miller",
+        "subject": "American Politics",
+        "stars": 3,
+        "review": "The lectures are informative but can be a bit dry. Dr. Miller knows his stuff though."
+      },
+      {
+        "professor": "Prof. Julia Kim",
+        "subject": "Introduction to Ethics",
+        "stars": 4,
+        "review": "Thought-provoking discussions and engaging lectures. Prof. Kim is a great teacher."
+      },
+      {
+        "professor": "Dr. Patrick O'Connor",
+        "subject": "Classical Mythology",
+        "stars": 5,
+        "review": "Amazing course! Dr. O'Connor makes mythology come alive with his storytelling."
+      },
+      {
+        "professor": "Prof. Nancy Thompson",
+        "subject": "Public Speaking",
+        "stars": 4,
+        "review": "A very practical course with lots of opportunities to practice. Prof. Thompson is encouraging and supportive."
+      }
+    ]
+  }
+  
